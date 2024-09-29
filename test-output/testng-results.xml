@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="31" passed="27" failed="4" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-29T18:55:41 IST" name="Suite" finished-at="2024-09-29T19:14:57 IST" duration-ms="1155852">
+    <groups>
+    </groups>
+    <test started-at="2024-09-29T18:55:41 IST" name="Test" finished-at="2024-09-29T19:14:57 IST" duration-ms="1155852">
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_006_MultipleRegions">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_006_MultipleRegions@196a42c3]" started-at="2024-09-29T18:57:57 IST" name="openApplication" finished-at="2024-09-29T18:58:00 IST" duration-ms="2993" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="MultipleRegionsTest()[pri:4, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_006_MultipleRegions@196a42c3]" started-at="2024-09-29T18:58:00 IST" name="MultipleRegionsTest" finished-at="2024-09-29T18:58:31 IST" duration-ms="31068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleRegionsTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_006_MultipleRegions -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_022_Mul_Co_BO">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_022_Mul_Co_BO@3f191845]" started-at="2024-09-29T19:05:49 IST" name="openApplication" finished-at="2024-09-29T19:05:52 IST" duration-ms="3437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="Mul_Co_BOTest()[pri:17, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_022_Mul_Co_BO@3f191845]" started-at="2024-09-29T19:05:52 IST" name="Mul_Co_BOTest" finished-at="2024-09-29T19:06:22 IST" duration-ms="30074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mul_Co_BOTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_022_Mul_Co_BO -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.ITW_004_SpecificCity">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.ITW_004_SpecificCity@53fb3dab]" started-at="2024-09-29T18:56:30 IST" name="openApplication" finished-at="2024-09-29T18:56:32 IST" duration-ms="1948" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="SpecificCityTest()[pri:2, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.ITW_004_SpecificCity@53fb3dab]" started-at="2024-09-29T18:56:32 IST" name="SpecificCityTest" finished-at="2024-09-29T18:57:06 IST" duration-ms="33812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpecificCityTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.ITW_004_SpecificCity -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_016_Ind_Cat_InvalidSearchQuery">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_016_Ind_Cat_InvalidSearchQuery@d737b89]" started-at="2024-09-29T19:02:49 IST" name="openApplication" finished-at="2024-09-29T19:02:53 IST" duration-ms="3098" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="InvalidSearchTest()[pri:12, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_016_Ind_Cat_InvalidSearchQuery@d737b89]" started-at="2024-09-29T19:02:53 IST" name="InvalidSearchTest" finished-at="2024-09-29T19:03:28 IST" duration-ms="35371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidSearchTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_016_Ind_Cat_InvalidSearchQuery -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_011_Reg_Cities_CrossbrowsersTesting">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_011_Reg_Cities_CrossbrowsersTesting@4a83a74a]" started-at="2024-09-29T18:59:38 IST" name="openApplication" finished-at="2024-09-29T18:59:41 IST" duration-ms="3052" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="Reg_CitiesFun_CrossBrowsersTest()[pri:7, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_011_Reg_Cities_CrossbrowsersTesting@4a83a74a]" started-at="2024-09-29T18:59:41 IST" name="Reg_CitiesFun_CrossBrowsersTest" finished-at="2024-09-29T19:00:12 IST" duration-ms="31518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reg_CitiesFun_CrossBrowsersTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_011_Reg_Cities_CrossbrowsersTesting -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_013_MultipleIndustry">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_013_MultipleIndustry@4b29d1d2]" started-at="2024-09-29T19:00:50 IST" name="openApplication" finished-at="2024-09-29T19:00:52 IST" duration-ms="2574" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="MultipleIndustryTest()[pri:9, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_013_MultipleIndustry@4b29d1d2]" started-at="2024-09-29T19:00:52 IST" name="MultipleIndustryTest" finished-at="2024-09-29T19:01:27 IST" duration-ms="35014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleIndustryTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_013_MultipleIndustry -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_023_CO_BO_SearchFun">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_023_CO_BO_SearchFun@5f049ea1]" started-at="2024-09-29T19:06:22 IST" name="openApplication" finished-at="2024-09-29T19:06:25 IST" duration-ms="3121" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="Co_BO_Search()[pri:18, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_023_CO_BO_SearchFun@5f049ea1]" started-at="2024-09-29T19:06:25 IST" name="Co_BO_Search" finished-at="2024-09-29T19:06:56 IST" duration-ms="30948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Co_BO_Search -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_023_CO_BO_SearchFun -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_029_BPC_WPOC">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_029_BPC_WPOC@18271936]" started-at="2024-09-29T19:09:05 IST" name="openApplication" finished-at="2024-09-29T19:09:07 IST" duration-ms="1956" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="BPC_WithPOC_Test()[pri:23, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_029_BPC_WPOC@18271936]" started-at="2024-09-29T19:09:07 IST" name="BPC_WithPOC_Test" finished-at="2024-09-29T19:09:34 IST" duration-ms="26929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BPC_WithPOC_Test -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_029_BPC_WPOC -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_033_PCD_NO">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_033_PCD_NO@48075da3]" started-at="2024-09-29T19:10:40 IST" name="openApplication" finished-at="2024-09-29T19:10:43 IST" duration-ms="2347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="PCD_NoOpt_Test()[pri:26, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_033_PCD_NO@48075da3]" started-at="2024-09-29T19:10:43 IST" name="PCD_NoOpt_Test" finished-at="2024-09-29T19:11:12 IST" duration-ms="29009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PCD_NoOpt_Test -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_033_PCD_NO -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_012_SpecificIndustry">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_012_SpecificIndustry@1349883]" started-at="2024-09-29T19:00:12 IST" name="openApplication" finished-at="2024-09-29T19:00:15 IST" duration-ms="2215" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="SelectSpecificIndustry()[pri:8, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_012_SpecificIndustry@1349883]" started-at="2024-09-29T19:00:15 IST" name="SelectSpecificIndustry" finished-at="2024-09-29T19:00:50 IST" duration-ms="35176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectSpecificIndustry -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_012_SpecificIndustry -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_025_CO_BO_NavigateBack">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_025_CO_BO_NavigateBack@72cc7e6f]" started-at="2024-09-29T19:06:56 IST" name="openApplication" finished-at="2024-09-29T19:06:58 IST" duration-ms="1963" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="CO_BO_Navigate_Back_Test()[pri:19, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_025_CO_BO_NavigateBack@72cc7e6f]" started-at="2024-09-29T19:06:58 IST" name="CO_BO_Navigate_Back_Test" finished-at="2024-09-29T19:07:31 IST" duration-ms="32489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CO_BO_Navigate_Back_Test -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_025_CO_BO_NavigateBack -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_019_CompanyNames_SearchFun">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_019_CompanyNames_SearchFun@2d901eb0]" started-at="2024-09-29T19:04:39 IST" name="openApplication" finished-at="2024-09-29T19:04:41 IST" duration-ms="2364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="CmapnyNamesSearchFun()[pri:15, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_019_CompanyNames_SearchFun@2d901eb0]" started-at="2024-09-29T19:04:41 IST" name="CmapnyNamesSearchFun" finished-at="2024-09-29T19:05:13 IST" duration-ms="31995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CmapnyNamesSearchFun -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_019_CompanyNames_SearchFun -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_026_CI_Specific_Inventory">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_026_CI_Specific_Inventory@5afa3c9]" started-at="2024-09-29T19:07:31 IST" name="openApplication" finished-at="2024-09-29T19:07:33 IST" duration-ms="2122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="SelectSpecificInventoryTest()[pri:20, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_026_CI_Specific_Inventory@5afa3c9]" started-at="2024-09-29T19:07:33 IST" name="SelectSpecificInventoryTest" finished-at="2024-09-29T19:08:04 IST" duration-ms="31467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectSpecificInventoryTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_026_CI_Specific_Inventory -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_030_BPC_WOPOC">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_030_BPC_WOPOC@606e4010]" started-at="2024-09-29T19:09:34 IST" name="openApplication" finished-at="2024-09-29T19:09:36 IST" duration-ms="2036" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="BPC_WOPOC_Test()[pri:24, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_030_BPC_WOPOC@606e4010]" started-at="2024-09-29T19:09:36 IST" name="BPC_WOPOC_Test" finished-at="2024-09-29T19:10:03 IST" duration-ms="26695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BPC_WOPOC_Test -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_030_BPC_WOPOC -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_018_MultipleCompanyNames">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_018_MultipleCompanyNames@35dab4eb]" started-at="2024-09-29T19:04:04 IST" name="openApplication" finished-at="2024-09-29T19:04:07 IST" duration-ms="2154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="MiltipleCompanyNamesTest()[pri:14, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_018_MultipleCompanyNames@35dab4eb]" started-at="2024-09-29T19:04:07 IST" name="MiltipleCompanyNamesTest" finished-at="2024-09-29T19:04:39 IST" duration-ms="32067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MiltipleCompanyNamesTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_018_MultipleCompanyNames -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_014_Ind_Cat_Search">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_014_Ind_Cat_Search@7f485fda]" started-at="2024-09-29T19:01:27 IST" name="openApplication" finished-at="2024-09-29T19:01:31 IST" duration-ms="3252" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="Ind_Cat_SearchFunTest()[pri:10, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_014_Ind_Cat_Search@7f485fda]" started-at="2024-09-29T19:01:31 IST" name="Ind_Cat_SearchFunTest" finished-at="2024-09-29T19:02:06 IST" duration-ms="35164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ind_Cat_SearchFunTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_014_Ind_Cat_Search -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_008_Reg_Cities_Search">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_008_Reg_Cities_Search@15043a2f]" started-at="2024-09-29T18:59:04 IST" name="openApplication" finished-at="2024-09-29T18:59:06 IST" duration-ms="2057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="SearchTest()[pri:6, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_008_Reg_Cities_Search@15043a2f]" started-at="2024-09-29T18:59:06 IST" name="SearchTest" finished-at="2024-09-29T18:59:38 IST" duration-ms="31924" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_008_Reg_Cities_Search.SearchTest(TC_008_Reg_Cities_Search.java:46)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_008_Reg_Cities_Search -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_039_WM_Discard">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_039_WM_Discard@5e2c3d18]" started-at="2024-09-29T19:12:36 IST" name="openApplication" finished-at="2024-09-29T19:12:41 IST" duration-ms="4957" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="WM_DiscardFunTest()[pri:29, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_039_WM_Discard@5e2c3d18]" started-at="2024-09-29T19:12:41 IST" name="WM_DiscardFunTest" finished-at="2024-09-29T19:13:21 IST" duration-ms="39847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WM_DiscardFunTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_039_WM_Discard -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_017_SpecificCompanyName">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_017_SpecificCompanyName@8519cb4]" started-at="2024-09-29T19:03:28 IST" name="openApplication" finished-at="2024-09-29T19:03:30 IST" duration-ms="1977" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="SelectSpecficCompanyTest()[pri:13, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_017_SpecificCompanyName@8519cb4]" started-at="2024-09-29T19:03:30 IST" name="SelectSpecficCompanyTest" finished-at="2024-09-29T19:04:04 IST" duration-ms="34460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectSpecficCompanyTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_017_SpecificCompanyName -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_034_AR_MinandMaxZero">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_034_AR_MinandMaxZero@68c9133c]" started-at="2024-09-29T19:11:12 IST" name="openApplication" finished-at="2024-09-29T19:11:16 IST" duration-ms="4461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="AR_Min_Max_Zero_Test()[pri:27, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_034_AR_MinandMaxZero@68c9133c]" started-at="2024-09-29T19:11:16 IST" name="AR_Min_Max_Zero_Test" finished-at="2024-09-29T19:12:00 IST" duration-ms="43854" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id=':r3e:']"}
+  (Session info: chrome=129.0.6668.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [af2fc88e926b247011b33ebafd502a6d, findElement {using=xpath, value=//input[@id=':r3e:']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.71, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\Users\test\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49922}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49922/devtoo..., se:cdpVersion: 129.0.6668.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: af2fc88e926b247011b33ebafd502a6d]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id=':r3e:']"}
+  (Session info: chrome=129.0.6668.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [af2fc88e926b247011b33ebafd502a6d, findElement {using=xpath, value=//input[@id=':r3e:']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.71, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\Users\test\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49922}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49922/devtoo..., se:cdpVersion: 129.0.6668.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: af2fc88e926b247011b33ebafd502a6d
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.getWrappedElement(Unknown Source)
+at org.openqa.selenium.remote.internal.WebElementToJsonConverter.apply(WebElementToJsonConverter.java:51)
+at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:212)
+at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:556)
+at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:546)
+at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:265)
+at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:702)
+at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:461)
+at ITW_BO_MyBrands_Filter_DashBoard_PageObjects.ITW_MyBrands_AnnualRevenuePage.EnterMaxValue(ITW_MyBrands_AnnualRevenuePage.java:39)
+at ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_034_AR_MinandMaxZero.AR_Min_Max_Zero_Test(TC_034_AR_MinandMaxZero.java:32)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AR_Min_Max_Zero_Test -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_034_AR_MinandMaxZero -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_003_SpecificRegions">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_003_SpecificRegions@17f9d882]" started-at="2024-09-29T18:55:41 IST" name="openApplication" finished-at="2024-09-29T18:55:45 IST" duration-ms="4383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="SelectSpecificRegionsTest()[pri:1, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_003_SpecificRegions@17f9d882]" started-at="2024-09-29T18:55:45 IST" name="SelectSpecificRegionsTest" finished-at="2024-09-29T18:56:30 IST" duration-ms="44520" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='No Brands Found']"}
+  (Session info: chrome=129.0.6668.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e70236aab4cdcdb2d0132cc29ce403f9, findElement {using=xpath, value=//h1[text()='No Brands Found']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.71, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\Users\test\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62278}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62278/devtoo..., se:cdpVersion: 129.0.6668.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e70236aab4cdcdb2d0132cc29ce403f9]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='No Brands Found']"}
+  (Session info: chrome=129.0.6668.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e70236aab4cdcdb2d0132cc29ce403f9, findElement {using=xpath, value=//h1[text()='No Brands Found']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.71, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\Users\test\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62278}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62278/devtoo..., se:cdpVersion: 129.0.6668.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e70236aab4cdcdb2d0132cc29ce403f9
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_003_SpecificRegions.SelectSpecificRegionsTest(TC_003_SpecificRegions.java:43)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectSpecificRegionsTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_003_SpecificRegions -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_040_WM_Cancel">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_040_WM_Cancel@2cb4893b]" started-at="2024-09-29T19:13:21 IST" name="openApplication" finished-at="2024-09-29T19:13:23 IST" duration-ms="2007" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="WM_CancelbtnFunTest()[pri:30, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_040_WM_Cancel@2cb4893b]" started-at="2024-09-29T19:13:23 IST" name="WM_CancelbtnFunTest" finished-at="2024-09-29T19:14:01 IST" duration-ms="38707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WM_CancelbtnFunTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_040_WM_Cancel -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_015_Ind_Cat_ClearAll">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_015_Ind_Cat_ClearAll@28261e8e]" started-at="2024-09-29T19:02:06 IST" name="openApplication" finished-at="2024-09-29T19:02:08 IST" duration-ms="2533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="ResetTest()[pri:11, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_015_Ind_Cat_ClearAll@28261e8e]" started-at="2024-09-29T19:02:08 IST" name="ResetTest" finished-at="2024-09-29T19:02:49 IST" duration-ms="41141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResetTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_015_Ind_Cat_ClearAll -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_032_PCD_Yes">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_032_PCD_Yes@8458f04]" started-at="2024-09-29T19:10:03 IST" name="openApplication" finished-at="2024-09-29T19:10:07 IST" duration-ms="4109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="Select_PCD_Yesopt_Test()[pri:25, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_032_PCD_Yes@8458f04]" started-at="2024-09-29T19:10:07 IST" name="Select_PCD_Yesopt_Test" finished-at="2024-09-29T19:10:40 IST" duration-ms="33490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_PCD_Yesopt_Test -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_032_PCD_Yes -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_021_Co_BO_Specific_CO_BO">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_021_Co_BO_Specific_CO_BO@3ba987b8]" started-at="2024-09-29T19:05:13 IST" name="openApplication" finished-at="2024-09-29T19:05:15 IST" duration-ms="2014" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="SpecificCo_BO_Test()[pri:16, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_021_Co_BO_Specific_CO_BO@3ba987b8]" started-at="2024-09-29T19:05:15 IST" name="SpecificCo_BO_Test" finished-at="2024-09-29T19:05:49 IST" duration-ms="33805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpecificCo_BO_Test -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_021_Co_BO_Specific_CO_BO -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_005_InvalidSpecificCity">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_005_InvalidSpecificCity@79e4c792]" started-at="2024-09-29T18:57:06 IST" name="openApplication" finished-at="2024-09-29T18:57:09 IST" duration-ms="3271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="InvalidSpecificCityTest()[pri:3, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_005_InvalidSpecificCity@79e4c792]" started-at="2024-09-29T18:57:09 IST" name="InvalidSpecificCityTest" finished-at="2024-09-29T18:57:56 IST" duration-ms="47070" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='No Brands Found']"}
+  (Session info: chrome=129.0.6668.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a9d1958937010a746bb1155c7e489ceb, findElement {using=xpath, value=//h1[text()='No Brands Found']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.71, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\Users\test\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62536}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62536/devtoo..., se:cdpVersion: 129.0.6668.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a9d1958937010a746bb1155c7e489ceb]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='No Brands Found']"}
+  (Session info: chrome=129.0.6668.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a9d1958937010a746bb1155c7e489ceb, findElement {using=xpath, value=//h1[text()='No Brands Found']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.71, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\Users\test\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62536}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62536/devtoo..., se:cdpVersion: 129.0.6668.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a9d1958937010a746bb1155c7e489ceb
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_005_InvalidSpecificCity.InvalidSpecificCityTest(TC_005_InvalidSpecificCity.java:42)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidSpecificCityTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_005_InvalidSpecificCity -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_007_ClearAll">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_007_ClearAll@4c60d6e9]" started-at="2024-09-29T18:58:31 IST" name="openApplication" finished-at="2024-09-29T18:58:33 IST" duration-ms="2234" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="ClearAllTest()[pri:5, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_007_ClearAll@4c60d6e9]" started-at="2024-09-29T18:58:33 IST" name="ClearAllTest" finished-at="2024-09-29T18:59:04 IST" duration-ms="30684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearAllTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_007_ClearAll -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_028_CI_NavigateBackArrow">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_028_CI_NavigateBackArrow@909217e]" started-at="2024-09-29T19:08:35 IST" name="openApplication" finished-at="2024-09-29T19:08:38 IST" duration-ms="2599" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="CI_NavigatebackArrowTest()[pri:22, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_028_CI_NavigateBackArrow@909217e]" started-at="2024-09-29T19:08:38 IST" name="CI_NavigatebackArrowTest" finished-at="2024-09-29T19:09:05 IST" duration-ms="27354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CI_NavigatebackArrowTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_028_CI_NavigateBackArrow -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_027_CI_MultipleInventories">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_027_CI_MultipleInventories@72035809]" started-at="2024-09-29T19:08:04 IST" name="openApplication" finished-at="2024-09-29T19:08:06 IST" duration-ms="1791" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="SelectMultipleInventoriesTest()[pri:21, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_027_CI_MultipleInventories@72035809]" started-at="2024-09-29T19:08:06 IST" name="SelectMultipleInventoriesTest" finished-at="2024-09-29T19:08:35 IST" duration-ms="28942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectMultipleInventoriesTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_027_CI_MultipleInventories -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_041_InavalidorEmptySearchFunctionality">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_041_InavalidorEmptySearchFunctionality@cc43f62]" started-at="2024-09-29T19:14:01 IST" name="openApplication" finished-at="2024-09-29T19:14:03 IST" duration-ms="1702" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="SearchFunctionalityTest()[pri:31, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_041_InavalidorEmptySearchFunctionality@cc43f62]" started-at="2024-09-29T19:14:03 IST" name="SearchFunctionalityTest" finished-at="2024-09-29T19:14:57 IST" duration-ms="53425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFunctionalityTest -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_041_InavalidorEmptySearchFunctionality -->
+      <class name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_035_AR_SliderbuttonFun">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_035_AR_SliderbuttonFun@7a35b0f5]" started-at="2024-09-29T19:12:00 IST" name="openApplication" finished-at="2024-09-29T19:12:02 IST" duration-ms="2163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.altergame.click/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="AR_SliderFun_Test()[pri:28, instance:ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_035_AR_SliderbuttonFun@7a35b0f5]" started-at="2024-09-29T19:12:02 IST" name="AR_SliderFun_Test" finished-at="2024-09-29T19:12:36 IST" duration-ms="33492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AR_SliderFun_Test -->
+      </class> <!-- ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_035_AR_SliderbuttonFun -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

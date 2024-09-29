@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+	<listeners>
+		<listener class-name="ITW_Utilities.Reporting"></listener>
+	</listeners>
+
+	<parameter name="browser" value="chrome" />
+	<parameter name="URL" value="https://qa.altergame.click/login"></parameter>
+
+	<!-- Regions and Cities Testcases       -->
+	<test thread-count="5" name="Test">
+		<classes>
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.ITW_004_SpecificCity" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_003_SpecificRegions" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_005_InvalidSpecificCity" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_006_MultipleRegions"></class>
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_007_ClearAll"></class>
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_008_Reg_Cities_Search" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_011_Reg_Cities_CrossbrowsersTesting" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_012_SpecificIndustry" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_013_MultipleIndustry" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_014_Ind_Cat_Search" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_015_Ind_Cat_ClearAll" /> 
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_016_Ind_Cat_InvalidSearchQuery" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_017_SpecificCompanyName" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_018_MultipleCompanyNames" /> 
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_019_CompanyNames_SearchFun" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_021_Co_BO_Specific_CO_BO" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_022_Mul_Co_BO" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_023_CO_BO_SearchFun" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_025_CO_BO_NavigateBack" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_026_CI_Specific_Inventory" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_027_CI_MultipleInventories" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_028_CI_NavigateBackArrow" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_029_BPC_WPOC" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_030_BPC_WOPOC" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_032_PCD_Yes" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_033_PCD_NO" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_034_AR_MinandMaxZero" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_035_AR_SliderbuttonFun" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_039_WM_Discard" />
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_040_WM_Cancel" /> 
+			<class
+				name="ITW_BO_MyBrands_FilterFunctionality_Testcases.TC_041_InavalidorEmptySearchFunctionality" />  
+		</classes>
+	</test>
+</suite> 
+
